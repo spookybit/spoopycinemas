@@ -7,9 +7,9 @@ class Splash extends React.Component {
 
   render() {
     return (
-      <h1>
-        looool
-      </h1>
+      <div>
+        <img src="https://" />
+      </div>
     )
   }
 }
